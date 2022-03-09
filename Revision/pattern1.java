@@ -8,24 +8,23 @@ public class pattern1 {
 
         public static void pattern1(int n){
 
-            int nsp = n;
-            int nst = n;
+            int nsp = n-1;
+            int nst = 1;
 
             for(int r=1;r<=n;r++){
-
-
-                for(int csp=1;csp<=nsp;csp++){
-                    System.out.print("\t");
-                }
 
 
                 for(int cst=1;cst<=nst;cst++){
                     System.out.print("*\t");
                 }
 
+                for(int csp=1;csp<nsp;csp++){
+                    System.out.print("\t");
+                }
 
-                nsp = nsp+0;
-                nst = nst +0;
+
+                nsp = nsp-1;
+                nst = nst +1;
                 System.out.println();
 
 
