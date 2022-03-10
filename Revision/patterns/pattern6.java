@@ -1,4 +1,6 @@
+
 import java.util.Scanner;
+
 public class pattern6 {
 
     public static void pattern6(int n){

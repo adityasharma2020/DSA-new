@@ -1,3 +1,4 @@
+package Revision.patterns;
 import java.util.Scanner;
 
 public class pattern4 {
