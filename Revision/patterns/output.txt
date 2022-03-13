@@ -1,7 +1,7 @@
-*	*	*		*	*	*	nst : 3r is : 1
-*	*				*	*	nst : 2r is : 2
-*						*	nst : 1r is : 3
-*						*	nst : 1r is : 4
-*	*				*	*	nst : 2r is : 5
-*	*	*		*	*	*	nst : 3r is : 6
-*	*	*	*	*	*	*	*	nst : 4r is : 7
+*	
+	*	
+		*	
+			*	
+				*	
+					*	
+						*	
